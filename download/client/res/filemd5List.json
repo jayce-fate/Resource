@@ -866,7 +866,7 @@
       "path": "client/res/common/"
     }, 
     {
-      "md5": "83a5703551add2fdfce8969ac9be55dc", 
+      "md5": "57a837c47213591f7e4506cefb0658b5", 
       "name": "HowToPlayNode.csb", 
       "path": "client/res/common/"
     }, 
@@ -1501,7 +1501,7 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "773e5b49b90d5e4c1c64e2832f578bae", 
+      "md5": "bfd68b90dc741a75d64911e7e5d353b9", 
       "name": "game_401.png", 
       "path": "client/res/GameList/"
     }, 
@@ -2754,6 +2754,131 @@
       "md5": "7af1c1f49136aae8fd0ad5921f984ae5", 
       "name": "tubiao9.png", 
       "path": "client/res/Rank/"
+    }, 
+    {
+      "md5": "c2c0d1ee6cea99d1ed228ec6c3655372", 
+      "name": "ranking_avatar_frame.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "be9d6d81b74c287ce2d7903ecd692b83", 
+      "name": "ranking_btn_info.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "02f685fd64bd091e1f004c291ee7099d", 
+      "name": "ranking_btn_lastweek_h.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "e48d291dc58876fa8bb935b8b5270ac9", 
+      "name": "ranking_btn_lastweek_n.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "60b9915ebb8422558da1a4d0466598b0", 
+      "name": "ranking_btn_thisweek_h.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "52e1c00dc57715ca1ce0ba550fc1a90e", 
+      "name": "ranking_btn_thisweek_n.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "09d66d47ae357f81a4abdf089d47f79d", 
+      "name": "ranking_btn_today_h.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "c1c6f0f5c8743ec26adfc2fb55ed0055", 
+      "name": "ranking_btn_today_n.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "e1993960748dd683c0030d3b3104729a", 
+      "name": "ranking_mine.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "b60d18e956857a9084c03804312142b9", 
+      "name": "ranking_money_bg.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "468fab5ddec1fc9ac740acef9163e9fd", 
+      "name": "ranking_out_rank.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "8db3045282a846e92cc7241fd775387d", 
+      "name": "ranking_rank_0.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "374a52e2c084337461faa7fc2779158d", 
+      "name": "ranking_rank_1.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "bb9b393fd9daf8ec4a3f2407be4dfcf3", 
+      "name": "ranking_rank_2.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "97b466b4ce968a12d02bd15537fba4ef", 
+      "name": "ranking_rank_3.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "f3121610277d8db628e5c6940d5daaf9", 
+      "name": "ranking_rank_4.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "13b4a786599129131a205822a04d107e", 
+      "name": "ranking_rank_5.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "0579b73d7d02604b017e3f570d2049fe", 
+      "name": "ranking_rule_title.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "2a23d42ff273a135cbb65147b94d30e9", 
+      "name": "ranking_table_bg.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "505abdc83912b270197d02ba2d55ead5", 
+      "name": "ranking_title.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "b75ca691ae77af359cfae0288eec3c79", 
+      "name": "ranking_title_bg.png", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "df8bcfc3ac9826f34e1e7d9589b6797a", 
+      "name": "RankingCellNode.csb", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "3211564f98800fa59d25e5f323655ba9", 
+      "name": "RankingChart.csb", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "e9115733deeb75558f85c4b2f643d31b", 
+      "name": "rankingRule.txt", 
+      "path": "client/res/rankingchart/"
+    }, 
+    {
+      "md5": "97204e3dca76dcf51671b5ef0ddc5fae", 
+      "name": "RankingRuleNode.csb", 
+      "path": "client/res/rankingchart/"
     }, 
     {
       "md5": "afe1ac587c9a754fc7b10ccf2c946197", 
@@ -4266,7 +4391,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "35c06d9891124a722894f7abb523769a", 
+      "md5": "76acd66347561f6226d5dd3450b56175", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
@@ -4406,7 +4531,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "dec23fc7d693f14b9f04b559ebb6d4e5", 
+      "md5": "63c12abd00798c96c78bae4214feaf34", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4416,7 +4541,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "b47a7c487572ea4af48d0d90656bad3c", 
+      "md5": "37e8018453c95db758255516baa49e95", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4466,7 +4591,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "dc24b81ce6b69b54a80960f47efcd5e5", 
+      "md5": "2551a8dfe4c9ecd68a5f089d18666a9c", 
       "name": "HowToPlayLayer.luac", 
       "path": "client/src/plaza/views/layer/game/"
     }, 
@@ -4511,7 +4636,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "4eb0d8865fc3899701b12db76f2eaea4", 
+      "md5": "66d2395189d0bdf7ff68b8510de17f12", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4556,12 +4681,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b08ca7c808ea5a23a3cc0088f7c4736b", 
+      "md5": "b35b96c520a739073548423af73d50d2", 
       "name": "ChangeAvatarLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d249850f96932a6e459714724ec24bbe", 
+      "md5": "9443afe53a7796fda5f0954462853597", 
       "name": "ChangeNameLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4586,7 +4711,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ac9fb2dbef3900a3d4dc054f51d4a1cc", 
+      "md5": "969cde99084d3023ec7142880a457368", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4611,22 +4736,32 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "f64081f033117fdab32ed4fb949bd9ad", 
+      "md5": "3adbf48f47af6e53620b821d5dcb4980", 
       "name": "PurchaseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "8f2b032eba6c7be27eb81ec7257b7faf", 
+      "md5": "a6b5645e04450533a5c466e98e9b2799", 
+      "name": "RankingChartLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "d477a94ecd78c57175940a968b1ae5f3", 
       "name": "RankingListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "2186214b300ba11f0c9b3b31208fead3", 
+      "md5": "1459392dd224f54af04ab32bc676a873", 
+      "name": "RankingRuleLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "7c9981d62670b65f1cb4a485fa86c15b", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "0610b10f6f419dfe2faf0f53fedf920b", 
+      "md5": "32d8d80bdca3c185eb72e995214799bc", 
       "name": "SafeBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4786,7 +4921,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 957
+      "allcount": 984
     }
   ]
 }
