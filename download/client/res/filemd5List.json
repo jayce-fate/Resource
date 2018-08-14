@@ -76,7 +76,7 @@
       "path": "client/res/announcement/"
     }, 
     {
-      "md5": "f3f53da90649fcb66b3db8c7725551ce", 
+      "md5": "f46025c8a0ed9cd98ff0cc1d50d105ea", 
       "name": "AncmtNode.csb", 
       "path": "client/res/announcement/"
     }, 
@@ -641,6 +641,11 @@
       "path": "client/res/BankRecord/"
     }, 
     {
+      "md5": "608246dcedce5b021d5085754db4f7ce", 
+      "name": "binding_alipay_title.png", 
+      "path": "client/res/binding/"
+    }, 
+    {
       "md5": "97dcc5e8911ffcf1bc22d40e9eb5dfdb", 
       "name": "binding_bg.png", 
       "path": "client/res/binding/"
@@ -673,6 +678,11 @@
     {
       "md5": "a2f1e6e2e7f71a5b43f35bba0882ce19", 
       "name": "BindingAccountNode.csb", 
+      "path": "client/res/binding/"
+    }, 
+    {
+      "md5": "d9c8cc26cdf4625bc15160454fb2853d", 
+      "name": "BindingAlipayNode.csb", 
       "path": "client/res/binding/"
     }, 
     {
@@ -871,6 +881,21 @@
       "path": "client/res/common/"
     }, 
     {
+      "md5": "c7886b0c4ae6362abb60827bb70e2ded", 
+      "name": "common_tips_bg.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "e17ddd7ae1e7b3daae882345614c22df", 
+      "name": "common_tips_title.png", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "b1a0dead884d32c396d297bfaa81cbb0", 
+      "name": "common_txt_bg.png", 
+      "path": "client/res/common/"
+    }, 
+    {
       "md5": "827d2ff4cbeac1dedac0e8c58e06fbc8", 
       "name": "common_whiteboard_bg.png", 
       "path": "client/res/common/"
@@ -883,6 +908,21 @@
     {
       "md5": "8de5ce7b9c5c20b4814a0419af0c6856", 
       "name": "LatternAni.csb", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "faacc1a73cae619b3e2fd27ef943a345", 
+      "name": "TipsNode.csb", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "7581562cfdaa5a61f5c760c9ec7b9e44", 
+      "name": "TipsNodeB.csb", 
+      "path": "client/res/common/"
+    }, 
+    {
+      "md5": "9b5da4445ada52281a07055306f73df3", 
+      "name": "ToastNode.csb", 
       "path": "client/res/common/"
     }, 
     {
@@ -1511,19 +1551,169 @@
       "path": "client/res/GameList/"
     }, 
     {
-      "md5": "bfd68b90dc741a75d64911e7e5d353b9", 
-      "name": "game_401.png", 
-      "path": "client/res/GameList/"
-    }, 
-    {
-      "md5": "66809ebb41a464f3c2b8100305cdda72", 
-      "name": "lobby_game_200.png", 
+      "md5": "61ac683ffc1ff7f7c5ffac90a872a7b6", 
+      "name": "lobby_game_401.png", 
       "path": "client/res/GameList/"
     }, 
     {
       "md5": "84a617f106ae420ae0a3205c63841901", 
       "name": "spinner_circle.png", 
       "path": "client/res/GameList/"
+    }, 
+    {
+      "md5": "cd7d7240ea29397bddfe9b29fc16d3c6", 
+      "name": "lobby_game_401_1.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "59ce12bd808c802c56d87f16af7602c9", 
+      "name": "lobby_game_401_10.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "ce2a943c1a88c8a5194e71c8336c9510", 
+      "name": "lobby_game_401_11.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "20d399b386689e7e912cd714567a92b4", 
+      "name": "lobby_game_401_12.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b93236034e7d1c130cfb831374de05ef", 
+      "name": "lobby_game_401_13.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "596059973a8a6b0b61e4c5b5a2b0cebf", 
+      "name": "lobby_game_401_14.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "ce1cbcc5c1e0d8e1bcc1d952c20ab7b7", 
+      "name": "lobby_game_401_15.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "2e44cb72578fdb3f8a2abdf3c9616869", 
+      "name": "lobby_game_401_16.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "daabfaa5341b1a04b630be451ef6b4b7", 
+      "name": "lobby_game_401_17.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cadf22db4c1ae062db76998b8128de59", 
+      "name": "lobby_game_401_18.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "fb633cb71747e973d4ad19929e34ce16", 
+      "name": "lobby_game_401_19.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cd7d7240ea29397bddfe9b29fc16d3c6", 
+      "name": "lobby_game_401_2.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "bbe12f523d8edfc0717da66bf9d231fa", 
+      "name": "lobby_game_401_20.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "5c26d310f2c8ab62dd805e0671c0d05f", 
+      "name": "lobby_game_401_21.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "11c60a64ffde6e69e31b902f93c3cc99", 
+      "name": "lobby_game_401_22.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "792112036c1d63495e36d05da1d306c5", 
+      "name": "lobby_game_401_23.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "28599b72d6021a51a930578e8766026e", 
+      "name": "lobby_game_401_24.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "c343782c43dbe3fa3a69bd3c278c9cac", 
+      "name": "lobby_game_401_25.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "6d08c7564add40ca736660a1b98ee79a", 
+      "name": "lobby_game_401_26.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "89c547eeeff599c692aa0f33d4490ec3", 
+      "name": "lobby_game_401_27.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "192178041bfa721bc75b0e6c1eee7431", 
+      "name": "lobby_game_401_28.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "e0e9d76c37e44bfe5a31c589da6071bb", 
+      "name": "lobby_game_401_29.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "cca684cab9ddf8f24e3b879da871f200", 
+      "name": "lobby_game_401_3.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "7a624a86e4bbaa5c6a5c6647376fa3ce", 
+      "name": "lobby_game_401_30.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "435652bc98367e106a6578b14126d0fb", 
+      "name": "lobby_game_401_31.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "2dd162aa17bf18d329d0a3cdc8487b59", 
+      "name": "lobby_game_401_4.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "5ca680c83831d1ab1e3d56dfc4ad893e", 
+      "name": "lobby_game_401_5.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "2019cdb27d35ccf1548336d2afee7237", 
+      "name": "lobby_game_401_6.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "b2a35803b2d73690e2b0e7ef84b8582b", 
+      "name": "lobby_game_401_7.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "72656ee3e1819bfaf279d986dab13682", 
+      "name": "lobby_game_401_8.png", 
+      "path": "client/res/GameList/animations/"
+    }, 
+    {
+      "md5": "a29d20dd504ecd6473c6f84968a2d225", 
+      "name": "lobby_game_401_9.png", 
+      "path": "client/res/GameList/animations/"
     }, 
     {
       "md5": "eeb8c6c7664133432890c06194c896df", 
@@ -2141,6 +2331,61 @@
       "path": "client/res/Logon/"
     }, 
     {
+      "md5": "fd3c4f3a62f63252f2bbaa18d96dd88d", 
+      "name": "mailbo_checkbox_mark.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "465dd54c55b76efd50bc3647ca5fa910", 
+      "name": "mailbox_btn_delete.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "eaa22d251c59b172ecb2d07925a3f0f1", 
+      "name": "mailbox_btn_select_all.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "f5e60c6bb2fe7b8bed14f47c930c3a62", 
+      "name": "mailbox_cell_bg.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "f8a4a43ca023a59166e28db403ace5c9", 
+      "name": "mailbox_checkbox_bg.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "c7760957389d9caea86b3511111a7ce2", 
+      "name": "mailbox_list_bg.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "d65905f610027afb6094865478300242", 
+      "name": "mailbox_mail_read.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "42bf98467a5a6292eee2a5eca16c1b4b", 
+      "name": "mailbox_mail_unread.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "393e2a15a65fa910a5f120268acee5b7", 
+      "name": "mailbox_title.png", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "232b716c8a36792ee3e0ce15cc68fd76", 
+      "name": "MailBoxCellNode.csb", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
+      "md5": "f029f666791586ceb44927133341092f", 
+      "name": "MailBoxNode.csb", 
+      "path": "client/res/mailbox/"
+    }, 
+    {
       "md5": "d18369ba12192be2d759bedbadbbc9df", 
       "name": "modify.plist", 
       "path": "client/res/modify/"
@@ -2546,9 +2791,79 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "f5eeca6f774bd0b8726b1459e5947a1c", 
+      "md5": "3dc062e3aa185a8736183e05e64dd022", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
+    }, 
+    {
+      "md5": "782bf44cf37a3acb56695721a3ef448a", 
+      "name": "coin-01.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "b5f9681b655ce2e79359721f24e04f74", 
+      "name": "coin-010.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "9e1771d427abec3558f43a67be68cf47", 
+      "name": "coin-011.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "d28207f69fd3d7ff63ca27cf66b659d1", 
+      "name": "coin-012.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "d36704bf518dcb1045b0bc0ba1d29df7", 
+      "name": "coin-013.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "03f63fc1f5fb7a609746837262aa15cb", 
+      "name": "coin-014.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "f797bf0e1f7211a3cac3cdf093cde4c9", 
+      "name": "coin-02.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "2e0a4a5a509fc745ba737def624e379c", 
+      "name": "coin-03.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "22e5d0678ad3b44abcdea56a27b65a3e", 
+      "name": "coin-04.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "dc35e8eafb4fdd524db2b59dfd8a8858", 
+      "name": "coin-05.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "6b630c54dbf06d3cbb4e38417f7a932e", 
+      "name": "coin-06.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "df79d20f3ec3f3dfae30dfb57b6b0d4e", 
+      "name": "coin-07.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "01322fe3e2def7a00ad6f694e9093a24", 
+      "name": "coin-08.png", 
+      "path": "client/res/plazz/animations/gold/"
+    }, 
+    {
+      "md5": "263be245e1e90a7916d1554da77f8000", 
+      "name": "coin-09.png", 
+      "path": "client/res/plazz/animations/gold/"
     }, 
     {
       "md5": "c66eac3f57d3228b27de59e5f92c1b4e", 
@@ -4181,13 +4496,13 @@
       "path": "client/res/sound/"
     }, 
     {
-      "md5": "d86ad71f8b63893867da950ecc169a03", 
-      "name": "backgroud01.mp3", 
+      "md5": "7c08385eff65c3e12c7af6a1c957c123", 
+      "name": "button_click_sound.mp3", 
       "path": "client/res/sound/"
     }, 
     {
-      "md5": "ced92613990690a81051a46c43a69659", 
-      "name": "Click.wav", 
+      "md5": "aadb37e9ff523b1daeff46f76719788a", 
+      "name": "dz_hall_background_music.mp3", 
       "path": "client/res/sound/"
     }, 
     {
@@ -4431,7 +4746,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "0c6404b0785aadb98522a416279878f0", 
+      "md5": "1d5fae3eaece40f49804d7bbcc6d0070", 
       "name": "ChangeName.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4461,7 +4776,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "59402919011ea3923451789807cf16ad", 
+      "md5": "59ae02b8b07be7b36225b088ec774641", 
       "name": "UserInfo.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -4498,6 +4813,11 @@
     {
       "md5": "f0d1d9527bb79c9b2a0a6e0abf1fd3bf", 
       "name": "userinfo_btn_change_name.png", 
+      "path": "client/res/userinfo/"
+    }, 
+    {
+      "md5": "247053f3fee13ec89e138996c25ef210", 
+      "name": "userinfo_btn_copy_id.png", 
       "path": "client/res/userinfo/"
     }, 
     {
@@ -4541,8 +4861,88 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "97304718f04512f40de1f350d21d5398", 
+      "md5": "15bcd57d7edbff2db819c854f1753770", 
+      "name": "Withdraw.csb", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "7118573ea3157cc625686fc08cfea42a", 
+      "name": "withdraw_btn_change_ali_d.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "e7d05c510378abe18a37ba9d75b13ca6", 
+      "name": "withdraw_btn_change_ali_n.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "87e18c242e312dad54d647e0fc425b18", 
+      "name": "withdraw_btn_goto_bind.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "67c6afe5782e19b91ff1280b3bfff33a", 
+      "name": "withdraw_btn_record.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "b26e46127b5719fa9c5c3fbe8d110849", 
+      "name": "withdraw_btn_rules.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "af475c68087f6b80ac397020bec5beaa", 
+      "name": "withdraw_btn_sure.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "740a41d3f9417c9dd33ecf9a365dc61f", 
+      "name": "withdraw_logo_ali.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "482c670a6218f3d77e839ed01279d770", 
+      "name": "withdraw_record_title.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "0c9b7f03a2667d8be60d338c7fe278f5", 
+      "name": "withdraw_rules_title.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "90acab7d8e6918b994e28fca405cf47d", 
+      "name": "withdraw_title.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "c45fecd51d234f48075114f8d53616af", 
+      "name": "withdraw_txtfield_bg.png", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "91c0a4ccb25a0121f87688ed8135cd9e", 
+      "name": "WithdrawRecord.csb", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "6170cbe8238e46df65083311e9ad7ad6", 
+      "name": "WithdrawRecordCellNode.csb", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "7ac4d44955df86810fdc46786b1d45b3", 
+      "name": "WithdrawRuleNode.csb", 
+      "path": "client/res/withdraw/"
+    }, 
+    {
+      "md5": "a88f80198f3a4b77d5bf2197df21e09b", 
       "name": "AnimationMgr.luac", 
+      "path": "client/src/external/"
+    }, 
+    {
+      "md5": "b9045730b36fc02df53febc2e83c2ea0", 
+      "name": "bigint.luac", 
       "path": "client/src/external/"
     }, 
     {
@@ -4551,18 +4951,23 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "4aa92ee3d3c2d53b8093822bfd9a8fed", 
+      "md5": "486d6bbe393bec0bf95efdbe1fb60f0a", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
     {
-      "md5": "c90613ff46f1adf47c641fc75daf64da", 
+      "md5": "9e9a13d37d7a2be434f4eec3cb4f6efc", 
       "name": "HeadSprite.luac", 
       "path": "client/src/external/"
     }, 
     {
-      "md5": "1ebd74b41f18023275919fb11267af5f", 
+      "md5": "73e517fc4e940e80ec01e78bea09380b", 
       "name": "MultiPlatform.luac", 
+      "path": "client/src/external/"
+    }, 
+    {
+      "md5": "c3642c9867e24587136194e400e1a333", 
+      "name": "named-powers-of-ten.luac", 
       "path": "client/src/external/"
     }, 
     {
@@ -4571,7 +4976,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "7faa145621f08d1ae382f14c7663663d", 
+      "md5": "b9a37301637f9d9b6838d77bef9e9d77", 
       "name": "PopupInfoHead.luac", 
       "path": "client/src/external/"
     }, 
@@ -4581,17 +4986,17 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "ed3643e7f7c2f2de0e9c1350bb736990", 
+      "md5": "0405a70672ca3b40690f53c84ae1dbef", 
       "name": "Bridge_android.luac", 
       "path": "client/src/external/platform/"
     }, 
     {
-      "md5": "3b6b8df7f7d233691f0b0e7429918b7b", 
+      "md5": "a9f4d53f2c8dfb72e7bfe31858184c82", 
       "name": "Bridge_ios.luac", 
       "path": "client/src/external/platform/"
     }, 
     {
-      "md5": "e4fd2efadfb97ebeb04ea4e5794f1aef", 
+      "md5": "0ee68bd8073d5916230411f75739314b", 
       "name": "GameModel.luac", 
       "path": "client/src/gamemodel/"
     }, 
@@ -4621,7 +5026,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "5f18d0ef40c27c29e2ea74b20e46b7f8", 
+      "md5": "9c5ed6a8d911530bb2e133b24b33f365", 
       "name": "BaseFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4641,7 +5046,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "b326e5b1598a5385c84001639d16da8d", 
+      "md5": "2bc6fd12c6a99a1d2b841018af07900a", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4651,7 +5056,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "71149b78cbe3309b069b523e2f548fc4", 
+      "md5": "1ec67fc73c6faf43ef0e8edd08d7ba1f", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4661,7 +5066,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "02d3bd0e1fac36a8c08c943cd2282f34", 
+      "md5": "70f3f14fdfde31ea403cf9885ddecab4", 
       "name": "LogonFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -4686,12 +5091,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "d4803fd5f100845d0b6261289e1fa5c9", 
+      "md5": "33b5dab1790aeb0dcbee6de0afa42313", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "c8dce89b5b6f5103c93bcf3e22445944", 
+      "md5": "2a1a4e5c74f9c41f7e545eab3dd59a36", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4701,7 +5106,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "a6a4eacaa4a208bfcbf210171c3eb38b", 
+      "md5": "e78a30051560ed91ceead03c92ceaa87", 
       "name": "LogonScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -4711,7 +5116,7 @@
       "path": "client/src/plaza/views/"
     }, 
     {
-      "md5": "a7947820c989503e23fd1b1970b6f82c", 
+      "md5": "754d7c6b5f86f1e45419371f7231a8ab", 
       "name": "FriendChatList.luac", 
       "path": "client/src/plaza/views/layer/friend/"
     }, 
@@ -4726,7 +5131,7 @@
       "path": "client/src/plaza/views/layer/friend/"
     }, 
     {
-      "md5": "43719f4a4165243e2b9482ac3e475a8b", 
+      "md5": "74bb210a8d633f74dd983068bbc081fa", 
       "name": "FriendQueryDialog.luac", 
       "path": "client/src/plaza/views/layer/friend/"
     }, 
@@ -4751,7 +5156,7 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "2551a8dfe4c9ecd68a5f089d18666a9c", 
+      "md5": "2fd4d41be652edde9b3ce5f5fad47ca2", 
       "name": "HowToPlayLayer.luac", 
       "path": "client/src/plaza/views/layer/game/"
     }, 
@@ -4761,12 +5166,12 @@
       "path": "client/src/plaza/views/layer/game/"
     }, 
     {
-      "md5": "9faa02cb55eb9844132c081530ce0854", 
+      "md5": "96d0a3f209e681803d8f65a9ee62311b", 
       "name": "AccountsLayer.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
     {
-      "md5": "c02dc313fa07338e0a27a9dbd084c5b6", 
+      "md5": "2013516c6ae31739d61ff6d6d859a570", 
       "name": "LoginView.luac", 
       "path": "client/src/plaza/views/layer/logon/"
     }, 
@@ -4801,12 +5206,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "66d2395189d0bdf7ff68b8510de17f12", 
+      "md5": "ffe8a90be5f653dfead147af0d806728", 
       "name": "AnnouncementLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "8ab5f7195b6fffcb33fca2fc7105dd86", 
+      "md5": "f4ee4728a5ba0b0177cdb69e465780f9", 
       "name": "BagDetailLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4816,52 +5221,57 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "6fdc57fecc6c51f8c4967b74c51b65b8", 
+      "md5": "d39456110909d0aa734571c3dbfdbac9", 
       "name": "BagRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ee8abc3488b04bb345fcdab29bb57533", 
+      "md5": "6544a847b9da074b71f7289b80b6ece3", 
       "name": "BagTransLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "e49d8ea43b8e7e6bc0b0be78c4240698", 
+      "md5": "86e83a4f82bd89ed346867e4a4e64106", 
       "name": "BankLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "4a3b31a5fa110f558c3e16e0a3ebd2b7", 
+      "md5": "63ef46778c5766a552416b4d474d52f9", 
       "name": "BankRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "80bd7544bcc495b93879c87bcfc1d4f3", 
+      "md5": "1e9e8f0eb2f8fe65d09a7b0e0d0cce8b", 
       "name": "BindingAccountLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "b30c39d9a14e4e13b3d1df11a8c197a1", 
+      "md5": "2efc87a7013ba3e2c6a33f51d4725225", 
+      "name": "BindingAlipayLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "83e4a545402689959dcf95a8187e88ff", 
       "name": "BindingGiftLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "1e25cd53a691b294a76c6c957c04fbeb", 
+      "md5": "f94d7b668a4bd91bd38cb61f240fc76c", 
       "name": "BindingLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "99bafe6b0bf437d8f5af0b588a1e219a", 
+      "md5": "ce73a553567844b701572dbee34bd58a", 
       "name": "BindingRegisterLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "9a63dffb6b488239a514200d1772e436", 
+      "md5": "116b4393e89ff5d84fa7439f8a50bfd9", 
       "name": "ChangeAvatarLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "9443afe53a7796fda5f0954462853597", 
+      "md5": "665000b876a490d4b7d06e90a35914cd", 
       "name": "ChangeNameLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4886,13 +5296,18 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "69b7b614f90a6d3b060892d7c993718e", 
+      "md5": "556301f688fa6528db5fee3492038a10", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "2f97c10686307fab8c867a480b7f1718", 
+      "md5": "55159c913da44b246dd37a8aa2633cbb", 
       "name": "IntroduceLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "87947464b05a03dd255100bbfeb000ab", 
+      "name": "MailBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
@@ -4901,42 +5316,42 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "2d5894a2a3bc3a89a690615d73f12452", 
+      "md5": "a648c87795eabdb883e5c1b64a17b426", 
       "name": "OptionLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "c49b43e614271a88c26d6b64b138b101", 
+      "md5": "030c27848c526f3246cdb53b139e9c83", 
       "name": "OrderRecordLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "dde91462c7e38928c3f2e2b3f16be5e1", 
+      "md5": "ce3b068aa0951b934c0cb1741a9e9ee4", 
       "name": "PurchaseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "6cea937a4271b1bef8870c58bf29a2b5", 
+      "md5": "1b905d5525af5c1d25553bb90320ade3", 
       "name": "RankingChartLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "d477a94ecd78c57175940a968b1ae5f3", 
+      "md5": "f86147edd9ff52d10c7449dfae83a78e", 
       "name": "RankingListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "1459392dd224f54af04ab32bc676a873", 
+      "md5": "cc5a57b4c1e226204c42160e4b1e5759", 
       "name": "RankingRuleLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "7c9981d62670b65f1cb4a485fa86c15b", 
+      "md5": "efa19199958d47ffc46f8384d6d9de0d", 
       "name": "RoomListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "32d8d80bdca3c185eb72e995214799bc", 
+      "md5": "3bce50717176253eb17ec9e6fa6385ef", 
       "name": "SafeBoxLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4946,12 +5361,12 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "af2da7f2792a4fb7a3da52406b49c8ae", 
+      "md5": "52d782021e307ec938fc796a78381cf8", 
       "name": "ShopDetailLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "8e4a9061ce40361d0d476c3efaee9f8f", 
+      "md5": "ce1d4271bf9ef2dcf69b3af10ef50c77", 
       "name": "ShopLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4966,12 +5381,22 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "138678210fd0aa6dbb856de6e860000c", 
+      "md5": "9226a23c26b3a6da84d5bf237022b936", 
       "name": "TaskLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "41ad4bf60fc05b4f05639e34279df5c8", 
+      "md5": "cca9278d2250964c2e42ac8f46019af6", 
+      "name": "TipsBLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "f6de403f384439db02ac05266e52eac7", 
+      "name": "TipsLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "6f9f658bf1b20a4617f39effcca4c3ac", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -4981,12 +5406,27 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "fb29a1ecba7d9be022f90ab5864a08ba", 
+      "md5": "32c12fb349181f55c979ffbe8e6ce863", 
       "name": "WhiteBoardLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "dd80589dfede6a13437851bbc8604ba1", 
+      "md5": "6ca45edbab196bbb04512f1965af60cb", 
+      "name": "WithdrawLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "d69c788c9cea8e030ca54a8435352a05", 
+      "name": "WithdrawRecordLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "2f8cd360b370c002b29c6959c39b1a26", 
+      "name": "WithdrawRulesLayer.luac", 
+      "path": "client/src/plaza/views/layer/plaza/"
+    }, 
+    {
+      "md5": "aea693b8867a9677d091599cf5c5eba9", 
       "name": "RoomLayer.luac", 
       "path": "client/src/plaza/views/layer/room/"
     }, 
@@ -5071,7 +5511,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "md5": "4742f4a0d4822df95568f2c38aebc551", 
+      "md5": "b6528574e653964d7404a3e030b4ac24", 
       "name": "RoomCardShopLayer.luac", 
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
@@ -5096,7 +5536,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 1019
+      "allcount": 1107
     }
   ]
 }
