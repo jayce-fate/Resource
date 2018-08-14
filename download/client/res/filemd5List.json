@@ -2686,7 +2686,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "7e50fa4a6f7eec3db7fbdb8a4c5485cc", 
+      "md5": "8f58fe220f94b303b96a3b48601bd0df", 
       "name": "lobby_banner.png", 
       "path": "client/res/plazz/"
     }, 
@@ -5096,7 +5096,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "2a1a4e5c74f9c41f7e545eab3dd59a36", 
+      "md5": "4ce404c7619b7c0bfd90f4bf4c010080", 
       "name": "ClientScene.luac", 
       "path": "client/src/plaza/views/"
     }, 
@@ -5296,7 +5296,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "556301f688fa6528db5fee3492038a10", 
+      "md5": "8610c82007e1b782ec7e3a4f99157d87", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -5326,7 +5326,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "ce3b068aa0951b934c0cb1741a9e9ee4", 
+      "md5": "591a72fd8dec7d3fc46d689ea9d0215d", 
       "name": "PurchaseLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
