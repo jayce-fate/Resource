@@ -1,12 +1,12 @@
 {
 	"code":0,
-	"msg":null,
+	"msg":"",
 	"data":
 	{
 		"valid":true,
 		"downloadurl":"http://113.10.167.35:899/UpdateApp/download",
 		"clientversion":"10",
-		"resversion":"42",
+		"resversion":"43",
 		"ios_url":"http://103.112.208.28:8080/",
 		"android_url":"http://103.112.208.28:8080/",
 		"wxLogon":1,
