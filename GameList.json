@@ -12,13 +12,13 @@
 		"isOpenCard":0,
 		"gamelist":[
 			{
-				"KindID":"401",
-				"KindName":"五子棋",
+				"KindID":"200",
+				"KindName":"斗地主",
 				"TypeID":"0",
-				"ModuleName":"yule.gobang",
+				"ModuleName":"qipai.land",
 				"ClientVersion":"101122049",
-				"ResVersion":"16",
-				"SortID":"100",
+				"ResVersion":"27",
+				"SortID":"1",
 				"KindMark":"3"
 			}]
 	}
